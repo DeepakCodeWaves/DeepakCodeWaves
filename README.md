@@ -1,5 +1,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working as a **Senior React Developer**
+- 🌱 Currently learning **Django** & **Backend Development**
+- 💬 Ask me about **React**, **Redux**, **TypeScript**, **Next.js**, **Node.js**
+- ⚡ Fun fact: I love building clean UIs and optimizing performance
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakcodewaves&label=Profile%20views&color=0e75b6&style=flat" alt="deepakcodewaves" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakcodewaves" alt="deepakcodewaves" /></a> </p>
@@ -7,6 +13,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:depakverma2016@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/deepak-verma-a6089b13b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 <p align="left">
 </p>
 
